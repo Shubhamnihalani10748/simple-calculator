@@ -54,3 +54,6 @@ This is my second Bash scripting project, created as part of my journey to explo
 - Inputs are not validated for non-numeric entries (future improvement idea).
 - The script has a fun and friendly tone to keep the user engaged.
 
+> Note: `calculator.sh` is a work in progress and will continue to receive updates with new features and improvements.
+
+
